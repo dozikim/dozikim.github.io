@@ -130,6 +130,15 @@ const certificationsData = [
     mediaUrl: "assets/PALOALTO_CERTIFICATE.pdf",
     actionUrl: "assets/PALOALTO_CERTIFICATE.pdf",
     actionText: "Open Full PDF"
+  },
+  {
+    title: "Introduction to Internet of Things",
+    issuer: "NPTEL",
+    description: "NPTEL 12-week course, Jul–Oct 2026. Scored 82% — 25/25 assignments, 57/75 exam. 4 credits recommended.",
+    type: "pdf",
+    mediaUrl: "assets/NPTEL_IOT_CERTIFICATE.pdf",
+    actionUrl: "assets/NPTEL_IOT_CERTIFICATE.pdf",
+    actionText: "Open Full PDF"
   }
 ];
 
